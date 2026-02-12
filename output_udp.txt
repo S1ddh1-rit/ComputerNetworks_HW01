@@ -1,0 +1,639 @@
+
+Packet 1
+         Ethernet Header
+Packet size: 117 bytes
+Dest MAC address: 01:00:5e:00:00:fb
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       103
+Identification:     42170
+Flags:              
+Fragment offset:    0
+TTL:       255
+Protocol:           17
+Header checksum:    0xfdb6
+ource IP address:  10.3.46.22
+Dest IP address:    224.0.0.251
+         UDP Header:
+Source port:        5353
+Dest port:   5353
+Length:             83
+Checksum:           0x86b5
+
+Packet 2
+         Ethernet Header
+Packet size: 137 bytes
+Dest MAC address: 33:33:00:00:00:fb
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x86dd
+         UDP Header:
+Source port:        5353
+Dest port:   5353
+Length:             83
+Checksum:           0xf1d3
+
+Packet 3
+         Ethernet Header
+Packet size: 97 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       83
+Identification:     28824
+Flags:              
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xc1d9
+ource IP address:  10.3.46.22
+Dest IP address:    8.8.8.8
+         UDP Header:
+Source port:        52217
+Dest port:   53
+Length:             63
+Checksum:           0x6561
+
+Packet 4
+         Ethernet Header
+Packet size: 97 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    128
+Total length:       83
+Identification:     54187
+Flags:              
+Fragment offset:    0
+TTL:       123
+Protocol:           17
+Header checksum:    0x2346
+ource IP address:  8.8.8.8
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        53
+Dest port:   52217
+Length:             63
+Checksum:           0xe4dd
+
+Packet 5
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xae1
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             1258
+Checksum:           0xdab3
+
+Packet 6
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xae1
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             1258
+Checksum:           0x3310
+
+Packet 7
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xae1
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             1258
+Checksum:           0x41de
+
+Packet 8
+         Ethernet Header
+Packet size: 122 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       108
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xf73
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             88
+Checksum:           0xc1ce
+
+Packet 9
+         Ethernet Header
+Packet size: 1044 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1030
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xbd9
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             1010
+Checksum:           0x237f
+
+Packet 10
+         Ethernet Header
+Packet size: 82 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       68
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x179b
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             48
+Checksum:           0x2cc7
+
+Packet 11
+         Ethernet Header
+Packet size: 82 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       68
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x179b
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             48
+Checksum:           0x72d
+
+Packet 12
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x12e1
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             1258
+Checksum:           0x2e6f
+
+Packet 13
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x12e1
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             1258
+Checksum:           0xc72d
+
+Packet 14
+         Ethernet Header
+Packet size: 1292 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       1278
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x12e1
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             1258
+Checksum:           0x5b03
+
+Packet 15
+         Ethernet Header
+Packet size: 327 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       313
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x16a6
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             293
+Checksum:           0xbeb6
+
+Packet 16
+         Ethernet Header
+Packet size: 67 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       53
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x17aa
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             33
+Checksum:           0xf12b
+
+Packet 17
+         Ethernet Header
+Packet size: 986 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       972
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x1413
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             952
+Checksum:           0x1df
+
+Packet 18
+         Ethernet Header
+Packet size: 64 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       50
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x17ad
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             30
+Checksum:           0xe235
+
+Packet 19
+         Ethernet Header
+Packet size: 120 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       106
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xf75
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             86
+Checksum:           0xc586
+
+Packet 20
+         Ethernet Header
+Packet size: 73 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       59
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xfa4
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             39
+Checksum:           0x5021
+
+Packet 21
+         Ethernet Header
+Packet size: 574 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       560
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x15af
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             540
+Checksum:           0x807f
+
+Packet 22
+         Ethernet Header
+Packet size: 65 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       51
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x17ac
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             31
+Checksum:           0x3d9b
+
+Packet 23
+         Ethernet Header
+Packet size: 77 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       63
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xfa0
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             43
+Checksum:           0x9184
+
+Packet 24
+         Ethernet Header
+Packet size: 162 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       148
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x174b
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             128
+Checksum:           0xf320
+
+Packet 25
+         Ethernet Header
+Packet size: 73 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       59
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           17
+Header checksum:    0xfa4
+ource IP address:  10.3.46.22
+Dest IP address:    192.178.50.67
+         UDP Header:
+Source port:        60767
+Dest port:   443
+Length:             39
+Checksum:           0x31c9
+
+Packet 26
+         Ethernet Header
+Packet size: 65 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       51
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       56
+Protocol:           17
+Header checksum:    0x17ac
+ource IP address:  192.178.50.67
+Dest IP address:    10.3.46.22
+         UDP Header:
+Source port:        443
+Dest port:   60767
+Length:             31
+Checksum:           0x1876
+
+Total packets analyzed: 26

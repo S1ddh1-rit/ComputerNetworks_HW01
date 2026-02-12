@@ -1,0 +1,110 @@
+
+Packet 1
+         Ethernet Header
+Packet size: 93 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    2
+Total length:       79
+Identification:     31459
+Flags:              DF
+Fragment offset:    0
+TTL:       57
+Protocol:           6
+Header checksum:    0x47c8
+ource IP address:  172.66.154.160
+Dest IP address:    10.3.46.22
+         TCP Header:
+Source port:        443
+Dest port:   49735
+Sequence number:    1963383391
+Acknowledgment:     2672115075
+Flags:              PA
+Window size:        16
+
+Packet 2
+         Ethernet Header
+Packet size: 66 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       52
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           6
+Header checksum:    0xbbc8
+ource IP address:  10.3.46.22
+Dest IP address:    172.66.154.160
+         TCP Header:
+Source port:        49735
+Dest port:   443
+Sequence number:    2672115075
+Acknowledgment:     1963383418
+Flags:              A
+Window size:        2048
+
+Packet 3
+         Ethernet Header
+Packet size: 93 bytes
+Dest MAC address: 76:17:44:29:f2:97
+Source MAC address:      78:9a:18:ec:98:7b
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    2
+Total length:       79
+Identification:     14531
+Flags:              DF
+Fragment offset:    0
+TTL:       57
+Protocol:           6
+Header checksum:    0x89e8
+ource IP address:  172.66.154.160
+Dest IP address:    10.3.46.22
+         TCP Header:
+Source port:        443
+Dest port:   49734
+Sequence number:    1007296315
+Acknowledgment:     487819500
+Flags:              PA
+Window size:        18
+
+Packet 4
+         Ethernet Header
+Packet size: 66 bytes
+Dest MAC address: 78:9a:18:ec:98:7b
+Source MAC address:      76:17:44:29:f2:97
+Ethertype:               0x0800
+         IP Header:
+Version:            4
+Header length:      20 bytes
+Type of service:    0
+Total length:       52
+Identification:     0
+Flags:              DF
+Fragment offset:    0
+TTL:       64
+Protocol:           6
+Header checksum:    0xbbc8
+ource IP address:  10.3.46.22
+Dest IP address:    172.66.154.160
+         TCP Header:
+Source port:        49734
+Dest port:   443
+Sequence number:    487819500
+Acknowledgment:     1007296342
+Flags:              A
+Window size:        2048
+
+Total packets analyzed: 4
