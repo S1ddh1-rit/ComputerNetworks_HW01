@@ -1,2 +1,5 @@
-* bc295f7 (HEAD -> main, origin/main) Add packet sniffer assignment files
-* 6feb699 Update gitignore
+aaff782 (HEAD -> main, origin/main) Update report with full sections and conclusions
+c0eb69f Remove output_first.txt from repository
+cc4c885 Add revisions.txt git log
+bc295f7 Add packet sniffer assignment files
+6feb699 Update gitignore
